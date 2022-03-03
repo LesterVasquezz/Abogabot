@@ -19,8 +19,8 @@ Es un despacho de abogados que quiere automatizar las demandas de sus clientes, 
 - La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.
 
 ## Elementos desarrollados
-- [Toma de requerimientos]()
-- [Buyer persona]()
-- [Publico objetivo]()
-- [UX]()
-- [UI]()
+- [Toma de requerimientos](/Requerimientos.pdf)
+- [Buyer persona](/boyerPersona.png)
+- [Publico objetivo](/publicoObjetivo.jpg)
+- [UX](/ux/ux.PNG)
+- [UI](/ui/UI.pdf)
